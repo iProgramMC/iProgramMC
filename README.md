@@ -1,8 +1,9 @@
-### Welcome to the `iProgramMC` GitHub page! 👋
+<h1 align="center">Welcome to the `iProgramMC` GitHub page! 👋</h1>
 
 Hi, I'm iProgramInCpp, and this is my GitHub page, where you can find most of the stuff I write! :trollface:
-- Currently messing around with Operating System development (coming soon) and SM64 ROM hacking (also coming soon!)
-- Email: iprogramincpp@gmail.com
+- Currently messing around with [Operating System development](http://github.com/iProgramMC/NanoShellOS) and SM64 ROM hacking (coming soon!)
+- Email: [iprogramincpp@gmail.com](mailto:iprogramincpp@gmail.com)
+- Discord: `iProgramInCpp#9193`
 
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iProgramMC&layout=compact" width="333" />
