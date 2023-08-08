@@ -4,7 +4,7 @@ Hi, I'm iProgramInCpp, and this is my GitHub page, where you can find most of th
 
 - Currently doing [Operating System development](http://github.com/iProgramMC/NanoShellOS)
 - Email: [iprogramincpp@gmail.com](mailto:iprogramincpp@gmail.com)
-- Discord: `iProgramInCpp#9193`
+- Discord: `@iprogramincc`
 
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iProgramMC&layout=compact" width="333" />
