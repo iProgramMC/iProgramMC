@@ -2,7 +2,7 @@
 
 Hi, I'm iProgramInCpp, and this is my GitHub page, where you can find most of the stuff I write!
 
-- Currently doing [Operating System development](http://github.com/iProgramMC/NanoShellOS)
+- Currently doing [Operating System development](http://github.com/iProgramMC/NanoShellOS) and [Game Modding](https://github.com/ReMinecraftPE/mcpe)
 - Email: [iprogramincpp@gmail.com](mailto:iprogramincpp@gmail.com)
 - Discord: `@iprogramincc`
 
